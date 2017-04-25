@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="shape-rendering:crispEdges"
+   inkscape:version="0.91 r13725"
+   height="300"
+   viewBox="0 0 299.99736 299.99736"
+   width="300"
+   version="1.1"
+   sodipodi:docname="cs.svg"
+   id="svg3586"
+   inkscape:export-filename="/Users/alexloya/Desktop/squares.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata3610">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3608" />
+  <sodipodi:namedview
+     fit-margin-left="0.3"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="1.21"
+     borderopacity="1.0"
+     inkscape:current-layer="g3590"
+     inkscape:cx="46.060526"
+     inkscape:cy="135.99518"
+     borderlayer="false"
+     inkscape:window-maximized="0"
+     showgrid="false"
+     fit-margin-right="0.3"
+     inkscape:document-units="px"
+     bordercolor="#666666"
+     inkscape:window-x="6"
+     inkscape:window-y="0"
+     fit-margin-bottom="0.3"
+     inkscape:window-width="1440"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     pagecolor="#ffffff"
+     inkscape:window-height="813"
+     showborder="true"
+     fit-margin-top="0.3"
+     id="namedview3588"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="148.75902,50.41278"
+       orientation="1,0"
+       id="guide8552" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-159.8745,-470.52567)"
+     id="g3590">
+    <rect
+       style="opacity:1;fill:#00075b;fill-opacity:1;stroke:none;stroke-width:4.81841516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:11.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8010"
+       width="298.89853"
+       height="299.72491"
+       x="160.83713"
+       y="470.6619"
+       ry="0" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/alexloya/Desktop/squares.png"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       height="51.230278"
+       width="51.230278"
+       inkscape:export-xdpi="90"
+       y="693.33167"
+       x="-306.21857"
+       id="rect3592"
+       style="fill:#7580af;fill-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/alexloya/Desktop/squares.png"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       height="51.230278"
+       width="51.230278"
+       inkscape:export-xdpi="90"
+       y="693.33167"
+       x="-243.74028"
+       id="rect3594"
+       style="fill:#a3a8bd;fill-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/alexloya/Desktop/squares.png"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       height="51.230278"
+       width="51.230278"
+       inkscape:export-xdpi="90"
+       y="693.33167"
+       x="-181.2775"
+       id="rect3596"
+       style="fill:#cfd2e1;fill-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/alexloya/Desktop/squares.png"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       height="51.230278"
+       width="51.230278"
+       inkscape:export-xdpi="90"
+       y="630.85333"
+       x="-306.21857"
+       id="rect3598"
+       style="fill:#505fa2;fill-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/alexloya/Desktop/squares.png"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       height="51.230278"
+       width="51.230278"
+       inkscape:export-xdpi="90"
+       y="630.85333"
+       x="-181.2775"
+       id="rect3600"
+       style="fill:#a3a8bd;fill-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/alexloya/Desktop/squares.png"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       height="51.230278"
+       width="51.230278"
+       inkscape:export-xdpi="90"
+       y="568.3905"
+       x="-306.21857"
+       id="rect3602"
+       style="fill:#384b98;fill-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/alexloya/Desktop/squares.png"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       height="51.230278"
+       width="51.230278"
+       inkscape:export-xdpi="90"
+       y="568.3905"
+       x="-243.74028"
+       id="rect3604"
+       style="fill:#505fa2;fill-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/alexloya/Desktop/squares.png"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       height="51.230278"
+       width="51.230278"
+       inkscape:export-xdpi="90"
+       y="568.3905"
+       x="-181.2775"
+       id="rect3606"
+       style="fill:#7580af;fill-opacity:1" />
+  </g>
+</svg>
